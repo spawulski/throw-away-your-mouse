@@ -34,6 +34,7 @@ A beginner resource for diving into Linux and NeoVim
 1. https://nvchad.com/
 2. leader key
 3. Mason
+4. Altername NeoVim dot files: https://github.com/ThePrimeagen/init.lua
 
 # UnixPorn
 1. Linux Ricing
